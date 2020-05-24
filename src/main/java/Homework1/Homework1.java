@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Homework1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+//lol
 
         System.out.println("Enter 4 values");
         int a = scanner.nextInt();
