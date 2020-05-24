@@ -12,7 +12,7 @@ public class Homework1 {
         int c = scanner.nextInt();
         int d = scanner.nextInt();
         System.out.println(valueOfNum(a, b, c, d));
-
+// hi
         System.out.println("Enter 2 values for checking if their sum is in range between 10 to 20");
         int num1 = scanner.nextInt();
         int num2 = scanner.nextInt();
